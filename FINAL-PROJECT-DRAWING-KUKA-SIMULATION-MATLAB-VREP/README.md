@@ -22,6 +22,8 @@
 
 ```matlab
 RGB = imread('ten_anh.jpg');
+
+
 ---
 
 ### ✅ Bước 4: Chạy V-REP và nạp code MATLAB

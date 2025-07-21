@@ -32,3 +32,5 @@ RGB = imread('ten_anh.jpg');
 - Sau đó mở MATLAB và chạy file .m.
 
 - MATLAB sẽ kết nối tới V-REP và gửi lệnh điều khiển robot dựa trên kết quả xử lý ảnh.
+---
+

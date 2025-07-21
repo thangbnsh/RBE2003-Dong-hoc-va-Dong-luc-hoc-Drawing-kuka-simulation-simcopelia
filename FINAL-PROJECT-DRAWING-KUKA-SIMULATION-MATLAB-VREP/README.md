@@ -22,15 +22,12 @@
 
 ```matlab
 RGB = imread('ten_anh.jpg');
+Thay 'ten_anh.jpg' bằng tên file ảnh bạn đã thêm ở Bước 2.
+(Ví dụ: RGB = imread('anh1.jpg');)
 
+✅ Bước 4: Chạy V-REP và nạp code MATLAB
+Mở phần mềm V-REP (hoặc CoppeliaSim) trước và bấm ▶ Run Simulation.
 
----
+Sau đó mở MATLAB và chạy file .m.
 
-### ✅ Bước 4: Chạy V-REP và nạp code MATLAB
-- Mở phần mềm V-REP (hoặc CoppeliaSim) trước và bấm ▶ Run Simulation.
-
-- Sau đó mở MATLAB và chạy file .m.
-
-- MATLAB sẽ kết nối tới V-REP và gửi lệnh điều khiển robot dựa trên kết quả xử lý ảnh.
----
-
+MATLAB sẽ kết nối tới V-REP và gửi lệnh điều khiển robot dựa trên kết quả xử lý ảnh.
